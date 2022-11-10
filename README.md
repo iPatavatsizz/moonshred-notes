@@ -2,7 +2,7 @@
 > A mobile note application for everyone.
 
 ## Privacy Policy - Terms & Conditions
-> [Privacy Policy](../blob/main/privacy-policy.md) - [Terms & Conditions](../blob/main/terms-conditions.md)
+> [Privacy Policy](../main/privacy-policy.md) - [Terms & Conditions](../main/terms-conditions.md)
 
 ## Properties
 - [x] Using a popular state management package. [GetX][GetXLink]
