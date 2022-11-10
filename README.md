@@ -1,2 +1,2 @@
-# moonshred-notes-one
-Moonshred Note One is an note application for eveyone.
+# Moonshred Notes (One)
+A mobile note application for everyone.
