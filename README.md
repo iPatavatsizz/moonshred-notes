@@ -10,6 +10,6 @@
 - [ ] Special support for note save in google firebase for coffee supporters.
 - [ ] Animated page&widget transitions.
 - [ ] Smooth note application experience. (Not stable for now.)
-- [ ] Advanced text editor with Youtube video support.
+- [X] Advanced text editor with Youtube video support. (Will be rewritten in future)
 
 [GetXLink]: https://github.com/jonataslaw/getx
